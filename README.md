@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Swasthik and I'm a Cyber Security Enthusiast and UI/UX designer</h2>
+<h2 align="center">Hi 👋! My name is Swasthik and I'm a Software Engineer Enthusiast and UI/UX designer</h2>
 
 ###
 
