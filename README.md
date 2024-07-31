@@ -88,6 +88,6 @@
 
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+<img src="https://app.lottiefiles.com/animation/f1aca853-6253-4ebe-b0d6-b763d7aada36" alt="Dev animation" />
 
 ###
